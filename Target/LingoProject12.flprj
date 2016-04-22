@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlDatabaseRoot="C:\Users\dspencer\Documents\My Projects\LingoProject12" SourceControlDatabase="C:\Users\dspencer\Documents\My Projects\LingoProject12\.git" SourceControlProviderType="Git" ProjectGuid="b20ecd4d-97e7-441d-99bf-f47ca5c67b8c" xml:space="preserve">
+</CatapultProject>
